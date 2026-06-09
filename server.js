@@ -65,3 +65,4 @@ app.listen(port, "0.0.0.0", () => {
 
 //for push test of env var.
 //Test auto env var puller.
+//moved functionality, but still might crash.
