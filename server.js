@@ -62,3 +62,5 @@ app.get("/", (req, res) => {
 app.listen(port, "0.0.0.0", () => {
   console.log(`🚀 Test server running smoothly on port ${port}`);
 });
+
+//for push test of env var.
